@@ -31,7 +31,7 @@ pythonz-bd==1.11.4
 queuelib==1.4.2
 requests==2.18.4
 resumable-urlretrieve==0.1.5
-Scrapy==1.4.0
+Scrapy==2.6.1
 semver==2.7.8
 service-identity==17.0.0
 six==1.10.0
